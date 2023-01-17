@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola Mundo 👋 Soy Maxi!
+
+Full Stack Developer de Argentina :argentina:
+
+:star: Lenguajes y Herramientas: 
+
+Languages and Tools:
+bootstrap css3 express git html5 javascript nodejs postgresql react redux sass tailwind
 
 <!--
 **MaxMdr2022/MaxMdr2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
