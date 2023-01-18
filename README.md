@@ -1,23 +1,18 @@
-<!--
+<!---
 <h1 align="center">Hola Mundo 👋, Soy Maxi!</h1>
 
-<h3 align="center">Desarrollador Full Stack de Argentina :argentina:</h3>
+<h3 align="center">Desarrollador Web Full Stack de Argentina :argentina:</h3>
 <br/>
   
-<p align="left">- 🌱 Actualmente estoy aprendiendo: <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://image.spreadshirtmedia.net/image-server/v1/designs/159876789,width=300,height=300,backgroundColor=f2f2f2/typescript-logo.jpg" alt="TypeScript" width="40" height="40"/> </a> y <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="40" height="40"/> </a></p>
+<p align="left">- 🌱 Actualmente estoy aprendiendo: <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://image.spreadshirtmedia.net/image-server/v1/designs/159876789,width=300,height=300,backgroundColor=f2f2f2/typescript-logo.jpg" alt="TypeScript" width="40" height="40"/> </a> y <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png" alt="mongodb" width="40" height="40"/> </a>.</p>
 
-<p align="left">- 👯 Busco colaborar con empresas, ONGs. Donde pueda aportar mis conocimientos al beneficio del proyecto </p>
+<p align="left">- 👯 Busco colaborar con empresas. Donde pueda aportar mis conocimientos al beneficio del proyecto. </p>
 
-<p align="left">- 💬 Podes preguntarme sobre ...</p>
-<p align="left">- 📫 How to reach me: ...</p>
-<p align="left">- 😄 Pronouns: ...</p>
-<p align="left">- ⚡ Fun fact: ...</p>
+<p align="left">- 💬 Podes preguntarme sobre: JavaScript, Nodejs, Express, PostgresSql, Web scraping, React, Redux  </p>
 
+<p align="left">- 📫 Podes contactarme por: <a href="https://www.linkedin.com/in/maximiliano-meder-618566258/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkdein" width="40" height="40"/> </a> </p>
 
-
-
-
-
+<!--- <p>Mi portafolio: </p>---
 
 <h3 align="left">Lenguajes y Herramientas: </h3>
 
@@ -39,6 +34,7 @@
 
 
 
+<!-- <p>:pushpin: Mis Proyectos:</p>
 
 
 
@@ -47,8 +43,7 @@
 
 
 
-
-
+<!--
 
 ### Hola Mundo 👋 Soy Maxi!
 
