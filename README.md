@@ -1,4 +1,6 @@
-<!---
+<div align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Banner" align="center"/> </a></div>
+
+
 <h1 align="center">Hola Mundo 👋, Soy Maxi!</h1>
 
 <h3 align="center">Desarrollador Web Full Stack de Argentina :argentina:</h3>
@@ -12,7 +14,7 @@
 
 <p align="left">- 📫 Podes contactarme por: <a href="https://www.linkedin.com/in/maximiliano-meder-618566258/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkdein" width="40" height="40"/> </a> </p>
 
-<!--- <p>Mi portafolio: </p>---
+<!----<p>Mi portafolio: </p>--->
 
 <h3 align="left">Lenguajes y Herramientas: </h3>
 
