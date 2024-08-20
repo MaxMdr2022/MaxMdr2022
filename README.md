@@ -14,7 +14,7 @@
 
 <p align="left">- 📫 Podes contactarme por: <a href="https://www.linkedin.com/in/maximiliano-meder-618566258/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkdein" width="40" height="40"/> </a> </p>
 
-<p>💼 Podes ver mis proyectos en mi portafolio:  <a href="https://portfolio-02-nine.vercel.app/" target="_blank">Click Aqui🔗</a> </p>
+<!--<p>💼 Podes ver mis proyectos en mi portafolio:  <a href="https://portfolio-02-nine.vercel.app/" target="_blank">Click Aqui🔗</a> </p>--->
 
 <h3 align="left">Lenguajes y Herramientas: </h3>
 
