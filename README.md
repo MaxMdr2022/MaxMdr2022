@@ -1,7 +1,7 @@
 <div align="center"><img src="https://steamuserimages-a.akamaihd.net/ugc/1756948115632541771/90BEF0E27DDF64766154E12F1FDD462F89849786/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true" alt="Banner" align="center"/> </a></div>
 
 
-<h1 align="center">Hola Mundo 👋, Soy Maxi!</h1>
+<!-- <h1 align="center">Hola Mundo 👋, Soy Maxi!</h1>
 
 <h3 align="center">Desarrollador Web Full Stack de Argentina :argentina:</h3>
 <br/>
@@ -14,7 +14,7 @@
 
 <p align="left">- 📫 Podes contactarme por: <a href="https://www.linkedin.com/in/maximiliano-meder-618566258/" target="_blank" rel="noreferrer"> <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" alt="Linkdein" width="40" height="40"/> </a> </p>
 
-<!--<p>💼 Podes ver mis proyectos en mi portafolio:  <a href="https://portfolio-02-nine.vercel.app/" target="_blank">Click Aqui🔗</a> </p>--->
+<!--<p>💼 Podes ver mis proyectos en mi portafolio:  <a href="https://portfolio-02-nine.vercel.app/" target="_blank">Click Aqui🔗</a> 
 
 <h3 align="left">Lenguajes y Herramientas: </h3>
 
@@ -32,7 +32,7 @@
 <p>
 
  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a><a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-</p>
+</p> -->
 
 
 
